@@ -17,7 +17,7 @@ require_once('../src/GoogleMapsTimeZone.php');
  * All queries require an API key from Google.
  * @link https://developers.google.com/maps/documentation/timezone/get-api-key
  */
-define('API_KEY', 'YOUR API KEY HERE');
+define('API_KEY', 'AIzaSyBrG3fhQcIy01AH5iTf1W1ZnS9r7l5Z-6w');
 
 // Initialize GoogleMapsTimeZone object.
 $timezone_object = new GoogleMapsTimeZone(37.7697, -122.3933, 1331161200, GoogleMapsTimeZone::FORMAT_JSON);
