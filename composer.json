@@ -26,3 +26,8 @@
         "phpdocumentor/phpdocumentor": "*"
     }
 }
+{
+    "require": {
+        "imelgrat/google-time-zone": "*"
+    }
+}
